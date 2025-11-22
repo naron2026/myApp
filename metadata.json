@@ -1,0 +1,5 @@
+{
+  "name": "Gemini FormCraft",
+  "description": "An intelligent form builder that uses Gemini AI to generate complex form structures from natural language descriptions. Features a drag-and-drop style editor (via controls) and real-time preview.",
+  "requestFramePermissions": []
+}
